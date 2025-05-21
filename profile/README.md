@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://r2.fivemanage.com/eYaMiGK3BGnopBeLHQ9IL/images/banner.jpg" alt="Forever Store Banner" width="100%">
-    <h1>FOREVER STORE 🚀</h1>
+<!--     <img src="https://r2.fivemanage.com/eYaMiGK3BGnopBeLHQ9IL/images/banner.jpg" alt="Forever Store Banner" width="100%"> -->
+    <h1>DevSync Studio 🚀</h1>
     <p align="center">
         <b>Premium FiveM Resources & Development</b>
         <br>
