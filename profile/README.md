@@ -64,7 +64,7 @@
 <div align="center">
     <br>
     <p>
-        <b>Made with ❤️ by Forever Store</b><br>
+        <b>Made with ❤️ by DevSync Studio</b><br>
         <i>Quality Without Compromise</i>
     </p>
 </div>
